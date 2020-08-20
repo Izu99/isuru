@@ -1,0 +1,31 @@
+
+<resources>
+    <string name= "app_name">My Application</string>
+    <string name= "login_main">Login</string>
+    <string name= "register_main">Register</string>
+
+    <string name= "login">Login</string>
+    <string name= "remember">Remember user name</string>
+    <string name= "button_forgot_login">Forgot Password</string>
+
+    <string name= "register">Register</string>
+
+    <string name= "feedback">Feedback</string>
+    <string name= "button_feedback">Submit</string>
+
+    <string name= "button_feedback_admin">Delete</string>
+    <string name= "feedback_admin">Customer Feedback</string>
+
+    <string name= "change_password">Change Password</string>
+    <string name= "button_change_password">Confirm</string>
+
+    <string name= "update_image_profile">Confirm</string>
+    <string name= "save_profile">Save Changes</string>
+    <string name= "delete">Delete Account</string>
+
+    <string name= "view_profile">View Profiles</string>
+    <string name= "view_feedback">View Feedback</string>
+    <string name= "manage_doctor">Manage Doctor Details</string>
+    <string name= "manage_guide">Manage Guide Details</string>
+    <string name= "manage_vehicle">Manage Vehicle Details</string>
+</resources>
